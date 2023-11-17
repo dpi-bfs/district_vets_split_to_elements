@@ -1,0 +1,22 @@
+{
+  "CurrentRecurringMovementsEnabled__hidden": true,
+  "EnrouteDetailsEnabled__hidden": true,
+  "DeveloperPanelEnabled__hidden": false,
+  "DevelopmentNotesEnabled__hidden": true,
+  "SummaryPageEnabled__hidden": false,
+  "ApplicantCannotFindAddressByLookup": false,
+  "MovementType": "Livestock",
+  "Livestock": [
+    {}
+  ],
+  "CurrentMovementFrequency": "One-off",
+  "OriginLocation": "By address",
+  "OriginCannotFindAddressByLookup": false,
+  "OriginHasPic": "true",
+  "OriginPic": "NH222337",
+  "TempPicDataTarget": "[object Object]",
+  "DestinationLocation": "ByAddress",
+  "DestinationCannotFindAddressByLookup": false,
+  "PersonResponsibleForTransporting": "Applicant",
+  "HowTransported": "By vehicle"
+}
