@@ -1,5 +1,5 @@
 {
-  "name": "district_vets_split_to_elements",
+  "name": "district-vets-split-to-elements",
   "version": "1.0.0",
   "description": "On the OneBlink form 'Notification of a low risk Emergency Animal Disease Exclusion', and others, after a user selects a District Vet this code splits the returned values into several contact details elements.",
   "main": "./src/response/index.ts",
